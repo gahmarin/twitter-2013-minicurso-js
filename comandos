@@ -1,0 +1,12 @@
+git config --global user.name <<colocar o user.name da conta pra fazer a congif do usuário>>
+git config --global user.email << colocar o user.email da conta pra fazer a config do email>>
+git init << inicia a transfer
+git add .
+git commit -m ""
+git checkout -b dev <<serve pra criar um branch, esse "dev" é o nome da branch>>
+git checkout <nome> <<serve para navegar entre as branchs>>
+git remote add
+git branch -M main
+git push origin main
+...
+ 
